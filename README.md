@@ -3,7 +3,7 @@ This project involves the creation of an advertising management platform for a c
 The word document is organized as follows:
 
 1)
-An overview of the system. listed what are the key pain points that the organization struggles to address. What are the asssumptions of the system?
+An overview of the system. listed what are the key pain points that the organization struggles to address. What are the asssumptions of the system
 
 2) Actionable insights /Reports that a Business User would draw from the system
 3) Flowchart/ Information Flow of System:
